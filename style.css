@@ -1,0 +1,13 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+.main_heading{
+    color: gold;
+    text-decoration: underline black;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
